@@ -1,2 +1,2 @@
-const name = "min";
+const name = "jjjjjjjj";
 const age = 22;
